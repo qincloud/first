@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 11)
 
 set(SOURCE_FILES main.cpp)
 set(DYNAMIC dynamic/func.cpp)
-add_executable(first ${DYNAMIC})
+set(LEETCODE leetcode/leetcode1.cpp)
+add_executable(first ${LEETCODE})
