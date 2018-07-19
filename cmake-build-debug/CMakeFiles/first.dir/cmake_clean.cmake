@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/first.dir/dynamic/func.cpp.o"
+  "CMakeFiles/first.dir/leetcode/leetcode1.cpp.o"
   "first.pdb"
   "first"
 )

@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/lzq996298643/CLionProjects/first/dynamic/func.cpp">
+		<Unit filename="/home/lzq996298643/CLionProjects/first/leetcode/leetcode1.cpp">
 			<Option target="first"/>
 		</Unit>
 		<Unit filename="/home/lzq996298643/CLionProjects/first/CMakeLists.txt">

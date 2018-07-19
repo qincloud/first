@@ -123,32 +123,32 @@ first/fast:
 	$(MAKE) -f CMakeFiles/first.dir/build.make CMakeFiles/first.dir/build
 .PHONY : first/fast
 
-dynamic/func.o: dynamic/func.cpp.o
+leetcode/leetcode1.o: leetcode/leetcode1.cpp.o
 
-.PHONY : dynamic/func.o
+.PHONY : leetcode/leetcode1.o
 
 # target to build an object file
-dynamic/func.cpp.o:
-	$(MAKE) -f CMakeFiles/first.dir/build.make CMakeFiles/first.dir/dynamic/func.cpp.o
-.PHONY : dynamic/func.cpp.o
+leetcode/leetcode1.cpp.o:
+	$(MAKE) -f CMakeFiles/first.dir/build.make CMakeFiles/first.dir/leetcode/leetcode1.cpp.o
+.PHONY : leetcode/leetcode1.cpp.o
 
-dynamic/func.i: dynamic/func.cpp.i
+leetcode/leetcode1.i: leetcode/leetcode1.cpp.i
 
-.PHONY : dynamic/func.i
+.PHONY : leetcode/leetcode1.i
 
 # target to preprocess a source file
-dynamic/func.cpp.i:
-	$(MAKE) -f CMakeFiles/first.dir/build.make CMakeFiles/first.dir/dynamic/func.cpp.i
-.PHONY : dynamic/func.cpp.i
+leetcode/leetcode1.cpp.i:
+	$(MAKE) -f CMakeFiles/first.dir/build.make CMakeFiles/first.dir/leetcode/leetcode1.cpp.i
+.PHONY : leetcode/leetcode1.cpp.i
 
-dynamic/func.s: dynamic/func.cpp.s
+leetcode/leetcode1.s: leetcode/leetcode1.cpp.s
 
-.PHONY : dynamic/func.s
+.PHONY : leetcode/leetcode1.s
 
 # target to generate assembly for a file
-dynamic/func.cpp.s:
-	$(MAKE) -f CMakeFiles/first.dir/build.make CMakeFiles/first.dir/dynamic/func.cpp.s
-.PHONY : dynamic/func.cpp.s
+leetcode/leetcode1.cpp.s:
+	$(MAKE) -f CMakeFiles/first.dir/build.make CMakeFiles/first.dir/leetcode/leetcode1.cpp.s
+.PHONY : leetcode/leetcode1.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... first"
-	@echo "... dynamic/func.o"
-	@echo "... dynamic/func.i"
-	@echo "... dynamic/func.s"
+	@echo "... leetcode/leetcode1.o"
+	@echo "... leetcode/leetcode1.i"
+	@echo "... leetcode/leetcode1.s"
 .PHONY : help
 
 
