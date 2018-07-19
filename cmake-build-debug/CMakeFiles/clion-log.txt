@@ -1,0 +1,4 @@
+/home/lzq996298643/softset/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/lzq996298643/CLionProjects/first
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lzq996298643/CLionProjects/first/cmake-build-debug
