@@ -21,7 +21,7 @@ export BOOST_LIB=/usr/local/lib
 
 export BOOST_INCLUDE=/usr/local/include/boost-1_60
 
-export BOOST_LIB=/usr/local/lib+x
+export BOOST_LIB=/usr/local/lib
 
 然后记得给文件授权chmod +x boost.sh
 
