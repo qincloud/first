@@ -10,11 +10,18 @@
 ```
 
 然后设置环境变量打开/etc/profile
+
 export BOOST_INCLUDE=/usr/local/include/boost-1_60
+
 export BOOST_LIB=/usr/local/lib
+
 第二种方法在/etc/profile.d下建立一个.sh脚本文件
+
 脚本文件里面写上
+
 export BOOST_INCLUDE=/usr/local/include/boost-1_60
+
 export BOOST_LIB=/usr/local/lib+x
+
 然后记得给文件授权chmod +x boost.sh
 
