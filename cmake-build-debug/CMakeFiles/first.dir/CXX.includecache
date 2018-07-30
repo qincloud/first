@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/lzq996298643/CLionProjects/first/dynamic/func.cpp
-stdio.h
--
+/home/lzq996298643/CLionProjects/first/leetcode/leetcode174.cpp
 iostream
 -
 

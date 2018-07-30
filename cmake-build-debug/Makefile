@@ -123,32 +123,32 @@ first/fast:
 	$(MAKE) -f CMakeFiles/first.dir/build.make CMakeFiles/first.dir/build
 .PHONY : first/fast
 
-leetcode/leetcode1.o: leetcode/leetcode1.cpp.o
+leetcode/leetcode174.o: leetcode/leetcode174.cpp.o
 
-.PHONY : leetcode/leetcode1.o
+.PHONY : leetcode/leetcode174.o
 
 # target to build an object file
-leetcode/leetcode1.cpp.o:
-	$(MAKE) -f CMakeFiles/first.dir/build.make CMakeFiles/first.dir/leetcode/leetcode1.cpp.o
-.PHONY : leetcode/leetcode1.cpp.o
+leetcode/leetcode174.cpp.o:
+	$(MAKE) -f CMakeFiles/first.dir/build.make CMakeFiles/first.dir/leetcode/leetcode174.cpp.o
+.PHONY : leetcode/leetcode174.cpp.o
 
-leetcode/leetcode1.i: leetcode/leetcode1.cpp.i
+leetcode/leetcode174.i: leetcode/leetcode174.cpp.i
 
-.PHONY : leetcode/leetcode1.i
+.PHONY : leetcode/leetcode174.i
 
 # target to preprocess a source file
-leetcode/leetcode1.cpp.i:
-	$(MAKE) -f CMakeFiles/first.dir/build.make CMakeFiles/first.dir/leetcode/leetcode1.cpp.i
-.PHONY : leetcode/leetcode1.cpp.i
+leetcode/leetcode174.cpp.i:
+	$(MAKE) -f CMakeFiles/first.dir/build.make CMakeFiles/first.dir/leetcode/leetcode174.cpp.i
+.PHONY : leetcode/leetcode174.cpp.i
 
-leetcode/leetcode1.s: leetcode/leetcode1.cpp.s
+leetcode/leetcode174.s: leetcode/leetcode174.cpp.s
 
-.PHONY : leetcode/leetcode1.s
+.PHONY : leetcode/leetcode174.s
 
 # target to generate assembly for a file
-leetcode/leetcode1.cpp.s:
-	$(MAKE) -f CMakeFiles/first.dir/build.make CMakeFiles/first.dir/leetcode/leetcode1.cpp.s
-.PHONY : leetcode/leetcode1.cpp.s
+leetcode/leetcode174.cpp.s:
+	$(MAKE) -f CMakeFiles/first.dir/build.make CMakeFiles/first.dir/leetcode/leetcode174.cpp.s
+.PHONY : leetcode/leetcode174.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... first"
-	@echo "... leetcode/leetcode1.o"
-	@echo "... leetcode/leetcode1.i"
-	@echo "... leetcode/leetcode1.s"
+	@echo "... leetcode/leetcode174.o"
+	@echo "... leetcode/leetcode174.i"
+	@echo "... leetcode/leetcode174.s"
 .PHONY : help
 
 

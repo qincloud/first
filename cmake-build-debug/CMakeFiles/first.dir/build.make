@@ -57,38 +57,38 @@ include CMakeFiles/first.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/first.dir/flags.make
 
-CMakeFiles/first.dir/leetcode/leetcode1.cpp.o: CMakeFiles/first.dir/flags.make
-CMakeFiles/first.dir/leetcode/leetcode1.cpp.o: ../leetcode/leetcode1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzq996298643/CLionProjects/first/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/first.dir/leetcode/leetcode1.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/first.dir/leetcode/leetcode1.cpp.o -c /home/lzq996298643/CLionProjects/first/leetcode/leetcode1.cpp
+CMakeFiles/first.dir/leetcode/leetcode174.cpp.o: CMakeFiles/first.dir/flags.make
+CMakeFiles/first.dir/leetcode/leetcode174.cpp.o: ../leetcode/leetcode174.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzq996298643/CLionProjects/first/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/first.dir/leetcode/leetcode174.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/first.dir/leetcode/leetcode174.cpp.o -c /home/lzq996298643/CLionProjects/first/leetcode/leetcode174.cpp
 
-CMakeFiles/first.dir/leetcode/leetcode1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/first.dir/leetcode/leetcode1.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lzq996298643/CLionProjects/first/leetcode/leetcode1.cpp > CMakeFiles/first.dir/leetcode/leetcode1.cpp.i
+CMakeFiles/first.dir/leetcode/leetcode174.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/first.dir/leetcode/leetcode174.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lzq996298643/CLionProjects/first/leetcode/leetcode174.cpp > CMakeFiles/first.dir/leetcode/leetcode174.cpp.i
 
-CMakeFiles/first.dir/leetcode/leetcode1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/first.dir/leetcode/leetcode1.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lzq996298643/CLionProjects/first/leetcode/leetcode1.cpp -o CMakeFiles/first.dir/leetcode/leetcode1.cpp.s
+CMakeFiles/first.dir/leetcode/leetcode174.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/first.dir/leetcode/leetcode174.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lzq996298643/CLionProjects/first/leetcode/leetcode174.cpp -o CMakeFiles/first.dir/leetcode/leetcode174.cpp.s
 
-CMakeFiles/first.dir/leetcode/leetcode1.cpp.o.requires:
+CMakeFiles/first.dir/leetcode/leetcode174.cpp.o.requires:
 
-.PHONY : CMakeFiles/first.dir/leetcode/leetcode1.cpp.o.requires
+.PHONY : CMakeFiles/first.dir/leetcode/leetcode174.cpp.o.requires
 
-CMakeFiles/first.dir/leetcode/leetcode1.cpp.o.provides: CMakeFiles/first.dir/leetcode/leetcode1.cpp.o.requires
-	$(MAKE) -f CMakeFiles/first.dir/build.make CMakeFiles/first.dir/leetcode/leetcode1.cpp.o.provides.build
-.PHONY : CMakeFiles/first.dir/leetcode/leetcode1.cpp.o.provides
+CMakeFiles/first.dir/leetcode/leetcode174.cpp.o.provides: CMakeFiles/first.dir/leetcode/leetcode174.cpp.o.requires
+	$(MAKE) -f CMakeFiles/first.dir/build.make CMakeFiles/first.dir/leetcode/leetcode174.cpp.o.provides.build
+.PHONY : CMakeFiles/first.dir/leetcode/leetcode174.cpp.o.provides
 
-CMakeFiles/first.dir/leetcode/leetcode1.cpp.o.provides.build: CMakeFiles/first.dir/leetcode/leetcode1.cpp.o
+CMakeFiles/first.dir/leetcode/leetcode174.cpp.o.provides.build: CMakeFiles/first.dir/leetcode/leetcode174.cpp.o
 
 
 # Object files for target first
 first_OBJECTS = \
-"CMakeFiles/first.dir/leetcode/leetcode1.cpp.o"
+"CMakeFiles/first.dir/leetcode/leetcode174.cpp.o"
 
 # External object files for target first
 first_EXTERNAL_OBJECTS =
 
-first: CMakeFiles/first.dir/leetcode/leetcode1.cpp.o
+first: CMakeFiles/first.dir/leetcode/leetcode174.cpp.o
 first: CMakeFiles/first.dir/build.make
 first: CMakeFiles/first.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lzq996298643/CLionProjects/first/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable first"
@@ -99,7 +99,7 @@ CMakeFiles/first.dir/build: first
 
 .PHONY : CMakeFiles/first.dir/build
 
-CMakeFiles/first.dir/requires: CMakeFiles/first.dir/leetcode/leetcode1.cpp.o.requires
+CMakeFiles/first.dir/requires: CMakeFiles/first.dir/leetcode/leetcode174.cpp.o.requires
 
 .PHONY : CMakeFiles/first.dir/requires
 

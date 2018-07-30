@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/first.dir/leetcode/leetcode1.cpp.o  -o first 
+/usr/bin/c++  -g   CMakeFiles/first.dir/leetcode/leetcode174.cpp.o  -o first 
